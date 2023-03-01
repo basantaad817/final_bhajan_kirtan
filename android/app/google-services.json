@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808983224656",
+    "project_id": "bhajan-kirtan-d4ddc",
+    "storage_bucket": "bhajan-kirtan-d4ddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808983224656:android:f731e0701108afd820cc55",
+        "android_client_info": {
+          "package_name": "com.bhajan.kirtan.basanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808983224656-qu1gpgd6i0q09uocs4ooqku9tdiv2qat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdVwPZV2UORHrWhpNq1ep6_O90dMA9Br8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808983224656-qu1gpgd6i0q09uocs4ooqku9tdiv2qat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
